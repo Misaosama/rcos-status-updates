@@ -1,22 +1,22 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+> Learning redis and mysql database.
 
 > Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> connecting the database, add, delete, and revise 
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
+> Start our project
 
-> Examples: New Bugs to be fixed, Design choices
+> Examples: Begin creating the database for our own project
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
+> Having problem connecting redis with php
 
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> Examples: don't know how to use redis in php
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> 
