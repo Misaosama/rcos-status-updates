@@ -101,3 +101,43 @@ c=[
 
 ## Notes
 
+## week4 and week5 (about Oct 12-Oct 27)
+## Last Week's Accomplishments
+
+> I worked on the demo and presentation of Explore-Z-Wasteland
+> 1) I create monster class. In that class, a monster has health, attack, armor, magic resistance, etc. I use redis hash_table to store informations of each monster.
+> 2) I accomplished a reword computation. After a monster was killed, a player can get some reword from that monster. I use random to compute what and how many items can a player get as rewords.
+> 3) I finished the movement function for players, which could change the position of a player and determine whether this movement is valid or whether a player encounter a monster after a step.
+
+
+> Examples:
+> This is an example of a particuliar monster database.
+> “Monster_name”:
+> health:	           500
+> armor: 	           10
+> Magic_resistance:	 5
+> damage:	           30
+> wealth (gold):	    50 
+> reward_1:	         Item1
+> reward_2:	         Item2
+> Reward_3:        	 Item3
+> Reward_4:	         Item4 
+
+## This Week's Plan
+
+> I'm going to learn some back-end knowledge on python which may be used for Autograding.
+> Also I'm tring to see if I can also create the fight system or weapon class in Explore-Z-Wasteland
+
+> Examples: Flask and Jinja2.
+
+## Anything Blocking?
+
+> For the character or player in Explore-Z-Wasteland, we may not create player class, and instead, we will store the information in database directly. Each time a player login in, his or her information will be read from database. It seems we do not need to create a player class.
+
+> Examples: Just store a player's health, mana, wealth, experience, etc on database.
+
+## Notes
+
+> 
+
+
