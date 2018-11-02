@@ -1,3 +1,9 @@
+## important note:
+> please see my upload for AutoGrading herer:
+> https://github.com/HuimingCheng/AutoGrading/compare/master...Hubert51:master
+
+
+
 ## Last Week's Accomplishments
 
 > Learning redis and mysql database.
@@ -138,6 +144,74 @@ c=[
 
 ## Notes
 
+>
+
+## Week 6
+## Last Week's Accomplishments
+
 > 
+
+> Examples:
+>  
+
+## This Week's Plan
+
+> 
+
+> Examples: 
+
+## Anything Blocking?
+
+> 
+
+> Examples: 
+
+## Notes
+
+
+## Week 7
+## Last Week's Accomplishments
+
+> 
+
+> Examples:
+>  
+
+## This Week's Plan
+
+> 
+
+> Examples: 
+
+## Anything Blocking?
+
+> 
+
+> Examples: 
+
+## Notes
+
+
+## Week 8
+## Last Week's Accomplishments
+
+> 
+
+> Examples:
+>  
+
+## This Week's Plan
+
+> 
+
+> Examples: 
+
+## Anything Blocking?
+
+> 
+
+> Examples: 
+
+## Notes
 
 
