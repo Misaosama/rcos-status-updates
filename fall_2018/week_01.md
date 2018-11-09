@@ -147,24 +147,28 @@ c=[
 >
 
 ## Week 6
-## Last Week's Accomplishments
+## Last Week's Accomplshments
 
-> 
+> 1) I learnt flask package in python, and I can run a correct function with a corresponding URL.
+> 2) Jinja 2 engine. I can use Jinja 2 engine to construct a website with some input variable.
+> 3) To develop a website back end, I also learn a little html language.
 
 > Examples:
->  
+>  @app.route('/user/<name>')
+   def user(name):
+    return render_template('user.html', name=name)
 
 ## This Week's Plan
 
-> 
+> Learning POST and HOST method, and use them to store clients' inputs to our database
 
-> Examples: 
+> Examples: Login and Sign up pages
 
 ## Anything Blocking?
 
-> 
+> It's simple to store the input value into database, but it is a little tricky to give a error when input is invalid.
 
-> Examples: 
+> Examples: If a client try to sign up with a used username, it will post an error on the current page rather than jump into a 404 page.
 
 ## Notes
 
