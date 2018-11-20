@@ -173,19 +173,18 @@ c=[
 ## Notes
 
 
-## Week 7
+## Week 7 & 8
 ## Last Week's Accomplishments
 
-> 
-
-> Examples:
->  
+> I just had 3 midterms before thanksgiving.
 
 ## This Week's Plan
 
-> 
+> Having Thanksgiving dinner.
 
-> Examples: 
+> Examples: Turkey
+
+> I will work hard after thanksgiving
 
 ## Anything Blocking?
 
@@ -196,7 +195,7 @@ c=[
 ## Notes
 
 
-## Week 8
+## Week 9
 ## Last Week's Accomplishments
 
 > 
