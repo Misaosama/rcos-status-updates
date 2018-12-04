@@ -198,22 +198,24 @@ c=[
 ## Week 9
 ## Last Week's Accomplishments
 
-> 
+> A sign-up page 
 
 > Examples:
->  
+> Sign with a username and a password
 
 ## This Week's Plan
 
-> 
+> Also finish signing-up as teacher or signing up as student
 
 > Examples: 
+> 
 
 ## Anything Blocking?
 
-> 
+> We want to hide the password when users enter their passwords
 
 > Examples: 
+> Password: 12345678 vs  Password: **********
 
 ## Notes
 
