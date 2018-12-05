@@ -220,3 +220,28 @@ c=[
 ## Notes
 
 
+## Week 10 (final week)
+## Last Week's Accomplishments
+
+> I finished sign-up page and embed it into the whole project pages
+
+> Examples:
+> In the home page of our project, there is a button "sign up" which gives the link to the sign-up page
+
+## This Week's Plan
+
+> Finishing final project and homework from other course
+
+> Examples: 
+> Computer organization hw6 and final project ...
+> Money&bank homework and exam 3
+
+## Anything Blocking?
+
+> I finally finished my work, lol
+
+
+## NEXT SEMESTER PLAN
+> Maybe write a page for reset password.
+> A website for posting students' grade.
+
